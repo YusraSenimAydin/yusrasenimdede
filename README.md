@@ -6,6 +6,7 @@
 </h3>
 <h3 align="left"  > 📩Connect with me
  <br/>
+    <br/>
 <a href="https://medium.com/@yusrasenimdede" target="blank"><img height="18" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://stackoverflow.com/users/14554011/yusra-senim" target="blank"><img height="18" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <a href="https://www.linkedin.com/in/yüsra-senim-dede-602430170/"> <img height="18"
     src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
