@@ -21,10 +21,10 @@
 ----
 
 ### 📊 GitHub Analytics
-<p align="center">
+<p align="left">
 <a href="https://github.com/yusrasenimdede">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=yusrasenimdede&show_icons=true&locale=en&theme=buefy&include_all_commits=true&count_private=true&hide=contribs" alt="yusrasenimdede"/>
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusrasenimdede&show_icons=true&locale=en&layout=compact&langs_count=8&theme=buefy" alt="yusrasenimdede"/>  
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=yusrasenimdede&show_icons=true&locale=en&theme=buefy&include_all_commits=true&count_private=true&hide=contribs" alt="yusrasenimdede"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=yusrasenimdede&show_icons=true&locale=en&layout=compact&langs_count=8&theme=buefy" alt="yusrasenimdede"/>  
 </a>
 </p>
 
