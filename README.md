@@ -8,7 +8,7 @@
  <br/>
     <br/>
 <a href="https://medium.com/@yusrasenimdede" target="blank"><img height="18" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://stackoverflow.com/users/14554011/yusra-senim" target="blank"><img height="18" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-<a href="https://www.linkedin.com/in/yüsra-senim-dede-602430170/"> <img height="18"
+<a href="https://www.linkedin.com/in/yusrasenimdede/"> <img height="18"
     src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 <a href="https://www.hackerrank.com/yusrasenimdede"> <img height="18"
     src="https://img.shields.io/badge/Hackerrank-black?logo=HackerRank&labelColor=black" alt="Hackerrank" /></a>
